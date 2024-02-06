@@ -6,7 +6,7 @@ Indel and mutation ratio analysis program for sequencing data.
 #After downloading this repo,
 pip install .
 #Or install from the github repo, directly
-pip install git+https://github.com/ibs-cge/maund.git
+pip install git+https://github.com/jihuni/maund.git
 ```
 ### Usage
 ```
